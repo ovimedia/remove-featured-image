@@ -1,4 +1,4 @@
-=== Remove Featured Image ===
+=== WP Remove Featured Image ===
 
 Tags: images, post, page, featured image
 Requires at least: 4.7

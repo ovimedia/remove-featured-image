@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Remove featured image
+Plugin Name: WP Remove featured image
 Description: Remove the featured image of any post type.
 Author: Ovi García - ovimedia.es
 Author URI: http://www.ovimedia.es/
